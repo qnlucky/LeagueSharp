@@ -1,0 +1,2 @@
+LeagueSharp by MiHawK
+===========
